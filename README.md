@@ -1,10 +1,10 @@
-# notes online 
+# Save your Markdown notes online with Atinotes 🖌️
 
-
+Read more on https://notes.atinux.com
 
 ## Setup
 
-install the dependencies:
+Make sure to install the dependencies:
 
 ```bash
 # pnpm
@@ -50,8 +50,8 @@ Next, make sure to add your KV namespace to the `wrangler.jsonc` file.
 
 Once saved, the deployment will be updated with the new environment variables.
 
-
+That's all :sparkles:
 
 ## License
 
-[MIT](./LICENSE) - callaback.com
+[MIT](./LICENSE) - Sébastien Chopin
