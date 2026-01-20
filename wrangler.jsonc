@@ -1,13 +1,14 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "atinotes",
+  "name": "notes_callaback",
   "observability": {
     "enabled": true
   },
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "2d0205a5567844e2bdc0db9ea926f7e9"
+      "id": "91a473765f3942188decdec03ba9d2ef",
+      "preview_id": "91a473765f3942188decdec03ba9d2ef"
     }
   ]
 }
