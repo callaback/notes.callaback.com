@@ -73,7 +73,7 @@ async function onSubmit(event: FormSubmitEvent<typeof state>) {
         <UColorModeButton />
         <UButton
           icon="i-simple-icons-github"
-          to="https://github.com/callaback"
+          to="https://github.com/callaback/notes.callaback.com"
           target="_blank"
           color="neutral"
           variant="ghost"
